@@ -14,7 +14,7 @@
 
 
 ## Academy
-Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğretmek için SoftSec sunucusunda (https://discord.io/hack-ware) **tamamen ücretsiz** eğitim vermekteyiz. Ayrıca Youtube kanalımız da takip edebilirsiniz: https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g/ İzlemenizi ve daha sonraki yayınlardan haberiniz olması için abone olup ve bildirimleri açmayı unutmayınız. İsteyen bize ulaşıp eğer onaylanırsa sunucuda academy verebilir.
+Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğretmek için HackWare sunucusunda (https://discord.io/hack-ware) **tamamen ücretsiz** eğitim vermekteyiz. Ayrıca Youtube kanalımız da takip edebilirsiniz: https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g/ İzlemenizi ve daha sonraki yayınlardan haberiniz olması için abone olup ve bildirimleri açmayı unutmayınız. İsteyen bize ulaşıp eğer onaylanırsa sunucuda academy verebilir.
 
 
 ## Nasıl Siber güvenlikçi olurum?
