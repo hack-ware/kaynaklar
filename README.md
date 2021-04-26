@@ -37,7 +37,7 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 <summary>Takip edilmesi gereken Youtube kanalları:</summary>
 
 ### Siber güvenlik
-- [SoftSec](https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g)
+- [Atıl Samancıoğlu](https://www.youtube.com/channel/UCnmAu7FF7LeoyTozrMVtTxQ)
 - [Can Değer](https://www.youtube.com/user/theblaxx)
 - [Mehmet D. INCE](https://www.youtube.com/channel/UClis21-nGFunHa9agc7Md_Q)
 - [Siber Kampüs](https://www.youtube.com/channel/UCfvjRxayLujZbc_JWTYhbMg)
