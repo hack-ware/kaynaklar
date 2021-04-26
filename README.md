@@ -1,6 +1,6 @@
 # HackWare
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SoftSec.kaynaklar) [![Discord](https://discord.com/api/guilds/835246397137748039/widget.png)](https://discord.io/hack_ware)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hack-ware.kaynaklar) [![Discord](https://discord.com/api/guilds/835246397137748039/widget.png)](https://discord.io/hack_ware)
 
 |HackWare|Yetki|Linkler|
 |:---:|:---:|:---:|
@@ -26,7 +26,7 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 1. Python öğren https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS ama siber güvenlik için öğreneceksen https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/ bunu kesinlikle alman lazım.
 1. Bundan sonrasınında https://www.udemy.com/course/etik-hacker-olma-kursu/ bu kursu alarak öğrenebilirsin
 1. Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde https://tryhackme.com/ sitesinde hem öğren hemde ctf çöz
-1. Kendi alanını seç(web, reverse engineer, mobil, yazılımcı, vs.)
+1. Kendi alanını seç (web, reverse engineer, mobil, yazılımcı, vs.)
 1. Bunlardan sonra artık kendi yolunu çizebilirsin
 
 ## Neden siber güvenlikte python çoğunlukla kullanılıyor.
