@@ -1,4 +1,4 @@
-# SoftSec
+# HackWare
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SoftSec.kaynaklar) (https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g?sub_confirmation=1) [![Discord](https://discord.com/api/guilds/835246397137748039/widget.png)](https://discord.io/hack-ware)
 
