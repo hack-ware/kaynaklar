@@ -4,11 +4,11 @@
 
 |HackWare|Yetki|Linkler|
 |:---:|:---:|:---:|
-|Atıl Samancıoğlu||[![Atıl Samancıoğlu](https://img.shields.io/badge/HackWare-Discord-purple)](https://discord.com/users/722134683650883697)|
-|Aziz Kaplan|Kurucu|[![Aziz Kaplan](https://img.shields.io/badge/HackWare-Discord-purple)](https://discord.com/users/782245134062321694)|
-|janiS|Kurucu|[![janiS](https://img.shields.io/badge/HackWare-Discord-purple)](https://discord.com/users/797034673289035808)|
-|Mustafa Bilgici|Kurucu|[![Mustafa Bilgici](https://img.shields.io/badge/HackWare-Discord-purple)](https://discord.com/users/519969314359607319)|
-|Eren|Moderatör|[![Eren](https://img.shields.io/badge/HackWare-Discord-purple)](https://discord.com/users/729960681293611009)|
+|Atıl Samancıoğlu|Sunucu Sahibi|[![Atıl Samancıoğlu](https://img.shields.io/badge/HackWare-Discord-black)](https://discord.com/users/722134683650883697)|
+|Aziz Kaplan|Root|[![Aziz Kaplan](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/782245134062321694)|
+|janiS|Root|[![janiS](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/797034673289035808)|
+|Mustafa Bilgici|Root|[![Mustafa Bilgici](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/519969314359607319)|
+|Eren|Moderatör|[![Eren](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/729960681293611009)|
 
 
 
