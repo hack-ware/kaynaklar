@@ -1,8 +1,8 @@
 # HackWare
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SoftSec.kaynaklar) (https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g?sub_confirmation=1) [![Discord](https://discord.com/api/guilds/835246397137748039/widget.png)](https://discord.io/hack-ware)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SoftSec.kaynaklar) [![Discord](https://discord.com/api/guilds/835246397137748039/widget.png)](https://discord.io/hack-ware)
 
-|SoftSec|Yetki|Linkler|
+|HackWare|Yetki|Linkler|
 |:---:|:---:|:---:|
 |Atıl Samancıoğlu||[![Atıl Samancıoğlu](https://img.shields.io/badge/HackWare-Discord-purple)](https://discord.com/users/722134683650883697)|
 |Aziz Kaplan|Kurucu|[![Aziz Kaplan](https://img.shields.io/badge/HackWare-Discord-purple)](https://discord.com/users/782245134062321694)|
