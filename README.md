@@ -1,6 +1,6 @@
 # HackWare
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SoftSec.kaynaklar) [![Discord](https://discord.com/api/guilds/835246397137748039/widget.png)](https://discord.io/hack-ware)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SoftSec.kaynaklar) [![Discord](https://discord.com/api/guilds/835246397137748039/widget.png)](https://discord.io/hack_ware)
 
 |HackWare|Yetki|Linkler|
 |:---:|:---:|:---:|
