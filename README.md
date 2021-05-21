@@ -8,7 +8,17 @@
 |Aziz Kaplan|Root|[![Aziz Kaplan](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/782245134062321694)|
 |janiS|Root|[![janiS](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/797034673289035808)|
 |Mustafa Bilgici|Root|[![Mustafa Bilgici](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/519969314359607319)|
-|Eren|Moderatör|[![Eren](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/729960681293611009)|
+|Eren|TryMod|[![Eren](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/729960681293611009)|
+|alicangunduz|TryMod|[![alicangunduz](https://img.shields.io/badge/HackWare-Discord-yellow)](https://discord.com/users/571759274083090462)|
+|DEAD END|TryMod|[![DEAD END](https://img.shields.io/badge/HackWare-Discord-yellow)](https://discord.com/users/740638169556451349)|
+|EnesG|TryMod|[![EnesG](https://img.shields.io/badge/HackWare-Discord-yellow)](https://discord.com/users/266982445029654528)|
+|Escan DNMZ|TryMod|[![Escan DNMZ](https://img.shields.io/badge/HackWare-Discord-yellow)](https://discord.com/users/397398591100026880)|
+|LayLayina|TryMod|[![LayLayina](https://img.shields.io/badge/HackWare-Discord-yellow)](https://discord.com/users/562360623141355550)|
+|Lyricsphos|TryMod|[![Lyricsphos](https://img.shields.io/badge/HackWare-Discord-yellow)](https://discord.com/users/420951120916250637)|
+|L'OmbreNoire|TryMod|[![L'OmbreNoire](https://img.shields.io/badge/HackWare-Discord-yellow)](https://discord.com/users/320215781071650817)|
+|Mert -Devil|TryMod|[![Mert -Devil](https://img.shields.io/badge/HackWare-Discord-yellow)](https://discord.com/users/440239378158059532)|
+|Mutant / 30|TryMod|[![Mutant / 30](https://img.shields.io/badge/HackWare-Discord-yellow)](https://discord.com/users/441131886077673483)|
+
 
 
 
