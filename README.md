@@ -4,7 +4,7 @@
 
 |HackWare|Yetki|Linkler|
 |:---:|:---:|:---:|
-|Atıl Samancıoğlu|Sunucu Sahibi|[![Atıl Samancıoğlu](https://img.shields.io/badge/HackWare-Discord-black)](https://discord.com/users/722134683650883697)|
+|Atıl Samancıoğlu|Server Admin|[![Atıl Samancıoğlu](https://img.shields.io/badge/HackWare-Discord-black)](https://discord.com/users/722134683650883697)|
 |Aziz Kaplan|Root|[![Aziz Kaplan](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/782245134062321694)|
 |janiS|Root|[![janiS](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/797034673289035808)|
 |Mustafa Bilgici|Root|[![Mustafa Bilgici](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/519969314359607319)|
