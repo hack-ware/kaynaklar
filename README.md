@@ -8,7 +8,7 @@
 |Aziz Kaplan|Root|[![Aziz Kaplan](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/782245134062321694)|
 |janiS|Root|[![janiS](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/797034673289035808)|
 |Mustafa Bilgici|Root|[![Mustafa Bilgici](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/519969314359607319)|
-|Eren|TryMod|[![Mod](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/729960681293611009)|
+|Eren|Mod|[![Eren](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/729960681293611009)|
 |alicangunduz|TryMod|[![alicangunduz](https://img.shields.io/badge/HackWare-Discord-yellow)](https://discord.com/users/571759274083090462)|
 |DEAD END|TryMod|[![DEAD END](https://img.shields.io/badge/HackWare-Discord-yellow)](https://discord.com/users/740638169556451349)|
 |EnesG|TryMod|[![EnesG](https://img.shields.io/badge/HackWare-Discord-yellow)](https://discord.com/users/266982445029654528)|
