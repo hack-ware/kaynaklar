@@ -42,6 +42,12 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 - Python diğer dillere göre öğrenmesi daha kolay.
 - Python çok amaçlı kullanılan, kütüphane bakımından zengin bir dillir.
 
+## Nasıl Siber güvenlikçi olurum?
+1. Nasıl yazılımcı olunur? Üniversite şart mı? https://www.youtube.com/watch?v=ZFtspEAj6-U
+2. 1 milyon istihdam(BTK) ile yazılım öğrenme https://www.youtube.com/watch?v=F1JaZ_zADdg&t=475s
+3. Yazılıma hangi dili öğrenerek başlanmalı https://www.youtube.com/watch?v=YHYtyXv1bh4
+
+
 ## Kaynaklar
 <details>
 <summary>Takip edilmesi gereken Youtube kanalları:</summary>
@@ -70,6 +76,19 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 - [Hak5](https://www.youtube.com/user/Hak5Darren)
 </details>
 
+### Yazılımcıların çok sık kullandığı siteler
+
+https://www.w3schools.com/
+
+https://getbootstrap.com/
+
+https://github.com/
+
+https://devdocs.io/
+
+https://codepen.io/trending
+  
+  
 ### Programlama
 
 - [Sadık Turan](https://www.youtube.com/user/sadikturan41)
