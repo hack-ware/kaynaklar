@@ -100,7 +100,7 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 - https://www.btkakademi.gov.tr/
 - https://www.youtube.com/
 
- ### Yazılımcıların çok sık kullandığı siteler
+#### Yazılımcıların çok sık kullandığı siteler
 
 https://www.w3schools.com/
 
