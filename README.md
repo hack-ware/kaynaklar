@@ -47,11 +47,11 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 2. 1 milyon istihdam(BTK) ile yazılım öğrenme https://www.youtube.com/watch?v=F1JaZ_zADdg&t=475s
 3. Yazılıma hangi dili öğrenerek başlanmalı https://www.youtube.com/watch?v=YHYtyXv1bh4
 4. Bundan sonrasınıda bu kursları alarak öğrenebilirsin:
-https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/ (Python) - 
-https://www.udemy.com/course/komple-web-developer-kursu/ (Web programlama ve tasarım) - 
-https://www.udemy.com/course/yazilimci-olma-kursu/ (c ve c# programlama) - 
-https://www.udemy.com/course/sifirdanhtmlcss/ (Web tasarım eğitimi) - 
-https://www.udemy.com/course/unity-egitim-seti/ (Oyun yazılımı)
+https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/ **(Python)** - 
+https://www.udemy.com/course/komple-web-developer-kursu/ **(Web programlama ve tasarım)** - 
+https://www.udemy.com/course/yazilimci-olma-kursu/ **(c ve c# programlama)** - 
+https://www.udemy.com/course/sifirdanhtmlcss/ **(Web tasarım eğitimi)** - 
+https://www.udemy.com/course/unity-egitim-seti/ **(Oyun yazılımı)**
 
 
 
