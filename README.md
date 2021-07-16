@@ -11,7 +11,7 @@
 |Eren|Mod|[![Eren](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/729960681293611009)|
 |DEAD END|Mod|[![DEAD END](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/740638169556451349)|
 |EnesG|Mod|[![EnesG](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/266982445029654528)|
-|Escan DNMZ|Mod|[![Escan DNMZ](https://img.shields.io/badge/HackWare-Discord-green](https://discord.com/users/397398591100026880)|
+|Escan DNMZ|Mod|[![Escan DNMZ](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/266982445029654528)|
 
 
 
