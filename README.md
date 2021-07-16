@@ -40,6 +40,9 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 
 - Bundan sonrasınıda bu kursu alarak öğrenebilirsin.[Etik hacker olma](https://www.udemy.com/course/etik-hacker-olma-kursu/)
 
+- Eğitiminiz sırasında bir sıkıntı yaşarsanır [Hack-ware](https://discord.gg/hackware) discordundan #sss-çözüm den yardım alabilir veya soru kanallarından. 
+yardım alabilirsiniz
+
 - Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde [tryhackme](https://tryhackme.com/) sitesinde hem öğrenip hemde ctf çözebilirsin.
 
 - Kendi alanını seç (web, reverse engineer, mobil, yazılım, vs.)
