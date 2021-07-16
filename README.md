@@ -20,30 +20,56 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 
 
 ## Nasıl Siber güvenlikçi olurum?
-1. Http, https, request, response, gibi birçok terimi öğren https://www.youtube.com/watch?v=PD8r9ISYgQo
-1. İnternet nedir ne işe yarar nasıl çalışır bunları bilmen lazım bunun içinde bir oynatma listesi çektik https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK
-1. Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız  bu video güzel https://www.youtube.com/watch?v=m1Um-lSr50k&t=53s birde bu videoda 2020.3 kuruyor aynı işlemleri en son sürümdede yapabilirsiniz.
-1. Temel linux komutlarını öğreniniz bunun için https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh bu oynatma listesi güzel birde bunları izledikten sonra https://linux-dersleri.github.io/ burdaki dökümanları da okuyunuz.
-1. Python öğren https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS fakat siber güvenlik için öğreneceksen bu kursu kesinlikle alman lazım. https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/ 
-1. Bundan sonrasınıda bu kursu alarak öğrenebilirsin. https://www.udemy.com/course/etik-hacker-olma-kursu/
-1. Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde https://tryhackme.com/ sitesinde hem öğrenip hemde ctf çözebilirsin.
-1. Kendi alanını seç (web, reverse engineer, mobil, yazılım, vs.)
-1. Bunlardan sonra artık kendi yolunu çizebilirsin. bol şans :)
+- Http, https, request, response, gibi birçok terimi öğren
+
+    [Terimlerle ilgili video](https://www.youtube.com/watch?v=PD8r9ISYgQo)
+    
+- İnternet nedir ne işe yarar nasıl çalışır bunları bilmen lazım bunun içinde bir oynatma listesi çektik
+
+    [Oynatma listesi](https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK)
+    
+- Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız bu video güzel
+
+    [Kali linux kurulum](https://www.youtube.com/watch?v=m1Um-lSr50k&t=53s) **birde bu videoda 2020.3 kuruyor aynı işlemleri en son sürümdede yapabilirsiniz.**
+    
+- Temel linux komutlarını öğreniniz bunun için
+
+    [Temel linux komutları](https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh) bu oynatma listesi nin yanında birde bunları izledikten sonra [linux-dersleri](https://linux-dersleri.github.io/) burdaki dökümanları da okuyunuz.
+
+- Python öğren [python oynatma listesi](https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS) fakat siber güvenlik için öğreneceksen bu kursu kesinlikle alman lazım. [Python sıfırdan ileri seviye kurs](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/) 
+
+- Bundan sonrasınıda bu kursu alarak öğrenebilirsin.[Etik hacker olma](https://www.udemy.com/course/etik-hacker-olma-kursu/)
+
+- Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde [tryhackme](https://tryhackme.com/) sitesinde hem öğrenip hemde ctf çözebilirsin.
+
+- Kendi alanını seç (web, reverse engineer, mobil, yazılım, vs.)
+
+- Bunlardan sonra artık kendi yolunu çizebilirsin. bol şans :)
 
 ## Neden siber güvenlikte python çoğunlukla kullanılıyor.
-- Python diğer dillere göre öğrenmesi daha kolay.
-- Python çok amaçlı kullanılan, kütüphane bakımından zengin bir dillir.
+
+- Python syntax bakımından çok daha basit ve kullanımı kolaydır.
+- Python çok amaçlı kullanılan, kütüphane bakımından zengin bir dildir.
 
 ## Nasıl yazılımcı olurum?
-1. Nasıl yazılımcı olunur? Üniversite şart mı? https://www.youtube.com/watch?v=ZFtspEAj6-U
-2. 1 milyon istihdam(BTK) ile yazılım öğrenme https://www.youtube.com/watch?v=F1JaZ_zADdg&t=475s
-3. Yazılıma hangi dili öğrenerek başlanmalı https://www.youtube.com/watch?v=YHYtyXv1bh4
-4. Bundan sonrasınıda bu kursları alarak öğrenebilirsin:
-https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/ **(Python)** - 
-https://www.udemy.com/course/komple-web-developer-kursu/ **(Web programlama ve tasarım)** - 
-https://www.udemy.com/course/yazilimci-olma-kursu/ **(c ve c# programlama)** - 
-https://www.udemy.com/course/sifirdanhtmlcss/ **(Web tasarım eğitimi)** - 
-https://www.udemy.com/course/unity-egitim-seti/ **(Oyun yazılımı)**
+
+- Nasıl yazılımcı olunur? Üniversite şart mı? [linke tıklayarak ulaşabilirsin](https://www.youtube.com/watch?v=ZFtspEAj6-U)
+
+- 1 milyon istihdam(BTK) ile yazılım öğrenme [Btk akademi](https://www.youtube.com/watch?v=F1JaZ_zADdg&t=475s)
+ 
+- Yazılıma hangi dili öğrenerek başlanmalı [linke tıklayarak ulaşabilirsin](https://www.youtube.com/watch?v=YHYtyXv1bh4)
+
+**- Bundan sonrasınıda bu kurslardan yararlanabilirsiniz:**
+ 
+[Python](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/) **(UDEMY)** [Python Notları](https://github.com/Escan-DNMZ/Python-syntax) Notları bizzat biz aldık umarım işinize yarar
+
+[Web programlama ve tasarım](https://www.udemy.com/course/komple-web-developer-kursu/) **(UDEMY)** [Javascript notları](https://github.com/Escan-DNMZ/javascript-syntax) | [Jquery notları](https://github.com/Escan-DNMZ/jquery-syntax) Notları bizzat biz aldık umarım işinize yarar
+
+[c ve c# programlama](https://www.udemy.com/course/yazilimci-olma-kursu/) **(UDEMY)** 
+
+[Web tasarım eğitimi](https://www.udemy.com/course/sifirdanhtmlcss/) **(UDEMY)**[Javascript notları](https://github.com/Escan-DNMZ/javascript-syntax) | [Jquery notları](https://github.com/Escan-DNMZ/jquery-syntax) Notları bizzat biz aldık umarım işinize yarar
+
+[Oyun yazılımı](https://www.udemy.com/course/unity-egitim-seti/) **(UDEMY)**
 
 
 
