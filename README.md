@@ -75,7 +75,6 @@ yardım alabilirsiniz
 [Oyun yazılımı](https://www.udemy.com/course/unity-egitim-seti/) **(UDEMY)**
 
 
-
 ## Kaynaklar
 <details>
 <summary>Takip edilmesi gereken Youtube kanalları:</summary>
@@ -139,4 +138,17 @@ https://github.com/
 https://devdocs.io/
 
 https://codepen.io/trending
+</details>
+
+<details>
+    <summary>Yararlı github profilleri</summary>
+    
+    
+  [Can değer](https://github.com/LuNiZz/siber-guvenlik-sss) (Siber güvenlik alanında detaylı bilgiler)
+    
+  [Atıl samancıoğlu](https://github.com/atilsamancioglu) (Udemy deki ve btk daki eğitimleri hakkında ders notları vb.)
+    
+  [Mehmet D.Ince](https://github.com/mdisec/mdisec-twitch-yayinlari) (Twitch yayınlarında verdiği eğitim ve bilgilerin oynatma listeleri)
+    
+  [Escan DNMZ](https://github.com/Escan-DNMZ) (javascript syntax gibi ders notlarını paylaşıyor)
 </details>
